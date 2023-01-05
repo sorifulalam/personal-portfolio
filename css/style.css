@@ -89,4 +89,18 @@ main {
   font-size: 18px;
   margin-bottom: 30px;
 }
+.about-info-container {
+  display: flex;
+  justify-content: space-around;
+}
 
+.about-info-taitel {
+  font-size: 20px;
+  color: #757575;
+  margin-bottom: 10px;
+}
+.about-descrioption {
+  font-size: 20px;
+  color: #474747;
+  font-weight: 700;
+}
