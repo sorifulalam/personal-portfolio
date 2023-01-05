@@ -96,7 +96,7 @@ main {
 }
 
 .about-info-taitel {
-  font-size: 20px;
+  font-size: 18px;
   color: #757575;
   margin-bottom: 10px;
 }
@@ -131,6 +131,19 @@ main {
   color: #757575;
   font-size: 16px;
 }
-.resume{
-    margin-top: 130px;
+.resume {
+  margin-top: 130px;
+}
+.resume-contant {
+  display: flex;
+}
+.resume-titel {
+  color: #474747;
+  font-size: 30px;
+}
+.resume .titel {
+  color: #474747;
+  font-size: 25px;
+}
+.resume .sub-titel {
 }
