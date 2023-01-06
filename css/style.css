@@ -141,7 +141,7 @@ main {
   color: #474747;
   font-size: 30px;
   font-weight: 700;
-  margin-bottom:15px;
+  margin-bottom: 15px;
 }
 .resume .titel {
   color: #474747;
@@ -154,11 +154,26 @@ main {
   font-weight: 600;
   margin-bottom: 10px;
 }
-.resume .description{
+.resume .description {
   font-size: 16px;
   color: #757575;
   font-weight: 400;
-}
-.resume-item{
   margin-bottom: 10px;
+}
+.resume-item {
+  margin-bottom: 10px;
+}
+.resume-cv {
+  margin-top: 50px;
+  text-align: center;
+}
+.contact {
+  display: flex;
+  margin-top: 110px;
+  gap: 100px;
+  padding: 130px 200px;
+  background-color: #FFF8F3;
+}
+.contact-description{
+  margin-bottom: 20px;
 }
