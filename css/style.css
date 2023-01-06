@@ -140,10 +140,25 @@ main {
 .resume-titel {
   color: #474747;
   font-size: 30px;
+  font-weight: 700;
+  margin-bottom:15px;
 }
 .resume .titel {
   color: #474747;
   font-size: 25px;
+  margin-bottom: 5px;
 }
 .resume .sub-titel {
+  font-size: 20px;
+  color: #757575;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+.resume .description{
+  font-size: 16px;
+  color: #757575;
+  font-weight: 400;
+}
+.resume-item{
+  margin-bottom: 10px;
 }
