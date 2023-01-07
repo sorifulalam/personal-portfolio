@@ -41,6 +41,7 @@ nav li {
   background-image: url("../img/header_bg.png"), url("../img/developer.png");
   background-repeat: no-repeat;
   background-position: bottom right, left;
+  width: 100%;
 }
 .banner {
   display: flex;
@@ -176,4 +177,12 @@ main {
 }
 .contact-description{
   margin-bottom: 20px;
+}
+.contact input, textarea{
+  margin-bottom: 24px;
+  width: 100%;
+  padding: 30px;
+}
+input{
+  height: 64px;
 }
