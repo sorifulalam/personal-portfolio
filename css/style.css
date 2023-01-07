@@ -15,7 +15,7 @@
 nav {
   display: flex;
   justify-content: space-between;
-  margin: 0 200px;
+  padding: 50 200px;
   align-items: center;
 }
 nav ul {
